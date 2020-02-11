@@ -1,0 +1,24 @@
+{
+  "data":{
+    "base_dir": "./data/",
+    "conf_dir": "./conf/",
+    "random_node": false,
+    "cat_head": [],
+    "con_head": [],
+    "start_date": "2014-08-03",
+    "end_date": "2014-08-31",
+    "small_threshold": 0,
+    "big_threshold": 21,
+    "min_nb": 5,
+    "unit": 1
+    },
+
+    "model":{
+      "log_base_dir": "./logs/",
+      "nb_c_filter": [3, 3],
+      "input_dim": 1,
+      "output_dim": 7,
+      "latent_dim": 5,
+      "unit":1
+    }
+}
